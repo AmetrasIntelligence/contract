@@ -23,7 +23,7 @@ Contract Variable Qty Timesheet
     :target: https://runbot.odoo-community.org/runbot/110/13.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module extends the functionality of contract_variable_quantity adding
 several variable quantity formulas to allow to invoice lines from Timesheet
@@ -98,7 +98,7 @@ promote its widespread use.
 
 Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-carlosdauden| |maintainer-pedrobaeza| 
+|maintainer-carlosdauden| |maintainer-pedrobaeza|
 
 This module is part of the `OCA/contract <https://github.com/OCA/contract/tree/13.0/contract_variable_qty_timesheet>`_ project on GitHub.
 
