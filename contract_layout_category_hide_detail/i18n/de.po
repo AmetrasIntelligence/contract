@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract_layout_category_hide_detail/i18n/contract_layout_category_hide_detail.pot\n"
 "X-Crowdin-File-ID: 3006\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:43\n"
+"PO-Revision-Date: 2022-08-07 00:01\n"
 
 #. module: contract_layout_category_hide_detail
 #: model:ir.model,name:contract_layout_category_hide_detail.model_contract_abstract_contract_line
@@ -24,7 +24,7 @@ msgstr "Wiederkehrende Vertragspositionen erstellen"
 #. module: contract_layout_category_hide_detail
 #: model:ir.model,name:contract_layout_category_hide_detail.model_contract_line
 msgid "Contract Line"
-msgstr ""
+msgstr "Vertragsposition"
 
 #. module: contract_layout_category_hide_detail
 #: model:ir.model.fields,field_description:contract_layout_category_hide_detail.field_contract_abstract_contract_line__show_details
