@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract_variable_quantity/i18n/contract_variable_quantity.pot\n"
 "X-Crowdin-File-ID: 3016\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:44\n"
+"PO-Revision-Date: 2022-08-07 00:01\n"
 
 #. module: contract_variable_quantity
 #: model_terms:ir.ui.view,arch_db:contract_variable_quantity.view_contract_line_qty_formula_form
@@ -77,7 +77,7 @@ msgstr "Klicken Sie, um eine neue Formel für variable Mengen einzugeben."
 #: model:ir.model.fields,field_description:contract_variable_quantity.field_contract_line_qty_formula__code
 #: model_terms:ir.ui.view,arch_db:contract_variable_quantity.view_contract_line_qty_formula_form
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #. module: contract_variable_quantity
 #: model:ir.model,name:contract_variable_quantity.model_contract_contract
@@ -87,7 +87,7 @@ msgstr "Vertrag"
 #. module: contract_variable_quantity
 #: model:ir.model,name:contract_variable_quantity.model_contract_line
 msgid "Contract Line"
-msgstr ""
+msgstr "Vertragsposition"
 
 #. module: contract_variable_quantity
 #: model:ir.model,name:contract_variable_quantity.model_contract_line_qty_formula
