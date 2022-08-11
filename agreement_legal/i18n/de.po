@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement_legal/i18n/agreement_legal.pot\n"
 "X-Crowdin-File-ID: 3000\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:01\n"
+"PO-Revision-Date: 2022-08-11 10:47\n"
 
 #. module: agreement_legal
 #. openerp-web
@@ -259,7 +259,7 @@ msgstr ""
 #. module: agreement_legal
 #: model_terms:ir.ui.view,arch_db:agreement_legal.partner_agreement_search_view
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: agreement_legal
 #: model:ir.model.fields,field_description:agreement_legal.field_agreement__assigned_user_id
