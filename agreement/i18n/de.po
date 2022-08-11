@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement/i18n/agreement.pot\n"
 "X-Crowdin-File-ID: 2998\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-08 02:14\n"
+"PO-Revision-Date: 2022-08-11 10:47\n"
 
 #. module: agreement
 #: code:addons/agreement/models/agreement.py:0
@@ -88,7 +88,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:agreement.agreement_type_form_view
 #: model_terms:ir.ui.view,arch_db:agreement.agreement_type_search
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__message_attachment_count
