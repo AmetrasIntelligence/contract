@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement_legal/i18n/agreement_legal.pot\n"
 "X-Crowdin-File-ID: 3000\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 14:10\n"
+"PO-Revision-Date: 2022-08-12 07:56\n"
 
 #. module: agreement_legal
 #. openerp-web
@@ -888,7 +888,7 @@ msgstr "Herstellung"
 #. module: agreement_legal
 #: model:ir.ui.menu,name:agreement_legal.agreement_masterdata
 msgid "Master Data"
-msgstr ""
+msgstr "Stammdaten"
 
 #. module: agreement_legal
 #. openerp-web
@@ -1118,7 +1118,7 @@ msgstr "Produktvorlage"
 #. module: agreement_legal
 #: model:ir.ui.menu,name:agreement_legal.agreement_products
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: agreement_legal
 #: model:ir.model.fields,field_description:agreement_legal.field_agreement__product_ids
@@ -1201,7 +1201,7 @@ msgstr "Reparatur"
 #. module: agreement_legal
 #: model:ir.ui.menu,name:agreement_legal.agreement_reporting
 msgid "Reporting"
-msgstr ""
+msgstr "Berichte"
 
 #. module: agreement_legal
 #: model_terms:ir.ui.view,arch_db:agreement_legal.report_agreement_document
