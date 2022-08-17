@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract/i18n/contract.pot\n"
 "X-Crowdin-File-ID: 3004\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:21\n"
+"PO-Revision-Date: 2022-08-17 10:10\n"
 
 #. module: contract
 #: model:mail.template,body_html:contract.mail_template_contract_modification
@@ -1829,7 +1829,7 @@ msgstr "Vertragsnachfolger-Positionen"
 #: model:ir.model.fields.selection,name:contract.selection__contract_template__contract_type__purchase
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_supplier_form_view
 msgid "Supplier"
-msgstr ""
+msgstr "Lieferant"
 
 #. module: contract
 #: model:ir.actions.act_window,name:contract.action_supplier_contract
