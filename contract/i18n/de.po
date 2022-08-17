@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract/i18n/contract.pot\n"
 "X-Crowdin-File-ID: 3004\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 10:10\n"
+"PO-Revision-Date: 2022-08-17 12:38\n"
 
 #. module: contract
 #: model:mail.template,body_html:contract.mail_template_contract_modification
@@ -1850,7 +1850,7 @@ msgstr "Aussetzungsanfangsdatum"
 #. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_contract__tag_ids
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #. module: contract
 #: model:ir.model.fields,help:contract.field_contract_abstract_contract_line__display_type
