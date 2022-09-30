@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement/i18n/agreement.pot\n"
 "X-Crowdin-File-ID: 2998\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-12 14:28\n"
+"PO-Revision-Date: 2022-09-30 08:21\n"
 
 #. module: agreement
 #: code:addons/agreement/models/agreement.py:0
@@ -129,7 +129,7 @@ msgstr "Anzeigename"
 #: model_terms:ir.ui.view,arch_db:agreement.agreement_search
 #: model_terms:ir.ui.view,arch_db:agreement.agreement_type_search
 msgid "Domain"
-msgstr ""
+msgstr "Domäne"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__end_date
