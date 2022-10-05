@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract_payment_mode/i18n/contract_payment_mode.pot\n"
 "X-Crowdin-File-ID: 3010\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:43\n"
+"PO-Revision-Date: 2022-10-05 12:37\n"
 
 #. module: contract_payment_mode
 #: model:ir.model,name:contract_payment_mode.model_contract_contract
@@ -24,5 +24,5 @@ msgstr "Vertrag"
 #. module: contract_payment_mode
 #: model:ir.model.fields,field_description:contract_payment_mode.field_contract_contract__payment_mode_id
 msgid "Payment Mode"
-msgstr ""
+msgstr "Zahlungsmethode"
 
