@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement/i18n/agreement.pot\n"
 "X-Crowdin-File-ID: 2998\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-06 06:44\n"
+"PO-Revision-Date: 2022-10-06 07:47\n"
 
 #. module: agreement
 #: code:addons/agreement/models/agreement.py:0
@@ -245,17 +245,17 @@ msgstr ""
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "Frist für die nächste Aktivität"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_summary
 msgid "Next Activity Summary"
-msgstr ""
+msgstr "Zusammenfassung der nächsten Aktivität"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_type_id
 msgid "Next Activity Type"
-msgstr ""
+msgstr "Nächster Aktivitätstyp"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__message_needaction_counter
@@ -304,7 +304,7 @@ msgstr "Referenz"
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Verantwortlicher Nutzer"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__message_has_sms_error
@@ -351,7 +351,10 @@ msgid "Status based on activities\n"
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
-msgstr ""
+msgstr "Status basierend auf Aktivitäten\n"
+"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
+"Heute: Aktivitätsdatum ist heute\n"
+"Geplant: Zukünftige Aktivitäten."
 
 #. module: agreement
 #: model:ir.model.fields,help:agreement.field_agreement__partner_id
@@ -376,7 +379,7 @@ msgstr "Typ Bezeichnung"
 #. module: agreement
 #: model:ir.model.fields,help:agreement.field_agreement__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "Art der aufgezeichneten Ausnahmeaktivität."
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__message_unread
