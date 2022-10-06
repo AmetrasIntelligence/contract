@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/agreement/i18n/agreement.pot\n"
 "X-Crowdin-File-ID: 2998\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-30 08:21\n"
+"PO-Revision-Date: 2022-10-06 06:44\n"
 
 #. module: agreement
 #: code:addons/agreement/models/agreement.py:0
@@ -36,7 +36,7 @@ msgstr "Aktiv"
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Aktivitäten"
 
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_exception_decoration
@@ -46,7 +46,7 @@ msgstr ""
 #. module: agreement
 #: model:ir.model.fields,field_description:agreement.field_agreement__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Aktivitätsstatus"
 
 #. module: agreement
 #: model:ir.model,name:agreement.model_agreement
@@ -170,7 +170,7 @@ msgstr "Symbol"
 #. module: agreement
 #: model:ir.model.fields,help:agreement.field_agreement__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
 
 #. module: agreement
 #: model:ir.model.fields,help:agreement.field_agreement__message_needaction
