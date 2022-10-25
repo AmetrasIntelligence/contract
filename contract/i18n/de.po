@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.contract] 13.0/contract/i18n/contract.pot\n"
 "X-Crowdin-File-ID: 3004\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-07 05:53\n"
+"PO-Revision-Date: 2022-10-25 12:20\n"
 
 #. module: contract
 #: model:mail.template,body_html:contract.mail_template_contract_modification
@@ -407,7 +407,7 @@ msgstr "Klicken Sie hier, um einen neuen Vertrag anzulegen."
 #. module: contract
 #: model:ir.model.fields.selection,name:contract.selection__contract_line__state__closed
 msgid "Closed"
-msgstr ""
+msgstr "Geschlossen"
 
 #. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_contract__commercial_partner_id
